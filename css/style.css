@@ -444,10 +444,10 @@ section {
 }
 
 .range {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-    text-transform: capitalize;
-  }
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+}
 
 /* media queries  */
 @media (max-width: 991px) {

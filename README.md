@@ -18,11 +18,8 @@ La Peña utiliza una serie de código abierto para funcionar correctamente, el m
 - [CSS] 
 - [JS] 
 
-Utilizamos el API para enviar (POST) los datos del registro  (https://jsonplaceholder.typicode.com/posts)
-Utilizamos el API para obtener (GET) los datos del tiempo [Open Weather Map]  (https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key})
-
-Si quieres obtener tu propio token de API puedes hacerlo creando una cuenta allí, sino utiliza el que viene con el proyecto.
-
+- Utilizamos el API para enviar (POST) los datos del registro  (https://jsonplaceholder.typicode.com/posts)
+- Utilizamos el API para obtener (GET) los datos del tiempo [Open Weather Map]  (https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key})
 ## Vista Previa
 
 ![](images/preview-tpf-mod2.gif)
